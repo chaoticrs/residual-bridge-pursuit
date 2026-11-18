@@ -1,0 +1,27 @@
+# Only code, results and the write-up are public. Everything else stays local.
+
+# large / downloadable
+data/
+
+# copyrighted papers and personal notes
+papers/
+papernotes/
+
+# personal planning documents
+guides/
+RESEARCH_PROPOSAL.md
+
+# logs and smoke-test outputs
+results/*.log
+results/phase1/*_limit*.json
+results/phase1/*_limit*.jsonl
+
+# python / editors
+__pycache__/
+*.pyc
+.claude/
+.vscode/
+.idea/
+
+# write-up (kept local)
+blog/

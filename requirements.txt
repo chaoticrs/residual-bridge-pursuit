@@ -1,0 +1,7 @@
+numpy>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+sentence-transformers>=3.0
+spacy>=3.7
+huggingface_hub>=0.23
+matplotlib>=3.8
